@@ -1,0 +1,17 @@
+streamlit
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+transformers
+torch
+bcrypt
+PyJWT
+plotly
+altair
+seaborn
+matplotlib
+requests
+pydantic
+sqlite3
